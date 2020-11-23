@@ -1,6 +1,6 @@
 % MAST_QRS: Automated detection of ECG R-waves, optimized for murine ECG 
 % obtained via implantable radiotelemetry
-% Copyright (C) 2020 Sami Torbey
+% Copyright (C) 2013 Sami Torbey
 
 % This program is free software: you can redistribute it and/or modify it
 % under the terms of the GNU LGPL        Public License as published by the Free
