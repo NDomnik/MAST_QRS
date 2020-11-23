@@ -3,7 +3,7 @@ Automated detection of ECG R-waves, optimized for murine ECG obtained via implan
 
 (c) Copyright 2013 Sami Torbey
 
-DOI: 10.5281/zenodo.4287670 
+DOI: 10.5281/zenodo.4287696 
 __________________________________________________________________________________________________
 mast_qrs is a MATLAB function that detects and returns QRS positions for a murine ECG vector input. 
 
